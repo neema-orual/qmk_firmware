@@ -9,12 +9,10 @@
         "device_version": "0.0.1"
     },
     "features": {
-        "audio": false,
         "backlight": true,
         "bootmagic": true,
         "command": false,
         "console": false,
-        "encoder": false,
         "extrakey": true,
         "lto": true,
         "mousekey": true,
@@ -29,7 +27,7 @@
     },
     "indicators": {
         "caps_lock": "A10"
-    }
+    },
     "ws2812": {
         "pin": "B15"
     },
